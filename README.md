@@ -1,4 +1,4 @@
-finetuned and quantized LLM for a mental health chatbot using Q-lora . dataset consists of 200 of questions/scenarios and positive responses to overcome such states.  provides accurate results for prompts familiar to the dataset and can often provide appropriate responses to prompts previously untrained for . 
+Q-lora finetuned and quantized LLM for a mental health chatbot  . dataset consists of 200 of questions/scenarios and positive responses to each question.  provides accurate results for prompts familiar to the dataset and can often provide satisfactory responses to prompts previously untrained for . 
 
 link for the model--->
 
